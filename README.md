@@ -10,7 +10,7 @@ I am a junior software developer, driven by a boundless curiosity and a lifelong
 - 🌐 Proud member of the [STL Tech Community](https://stltech.org/).
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,dotnet,docker,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,sass,js,ts,cs,dotnet,docker,raspberrypi,netlify,postman&perline=6)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
