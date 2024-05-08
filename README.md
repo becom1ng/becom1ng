@@ -12,7 +12,7 @@ I am a junior software developer, driven by a boundless curiosity and a lifelong
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,dotnet,docker,raspberrypi)](https://skillicons.dev)
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 - 🚀 Learning Node.js and Express.
 - Delving deeply into JS to broaden my softare development foundation.
