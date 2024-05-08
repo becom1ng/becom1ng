@@ -2,10 +2,6 @@
 
 I am a junior software developer, driven by a boundless curiosity and a lifelong love for technology. My journey as a professional has taken me from science, to public service, to software development.
 
-<details>
-  <summary>My Github Stats</summary>
-  ![becom1ng's Stats](https://github-readme-stats.vercel.app/api?username=becom1ng&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</details>
 
 ## 🚀 About Me
 
@@ -14,6 +10,9 @@ I am a junior software developer, driven by a boundless curiosity and a lifelong
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=angular,html,css,sass,js,ts,cs,dotnet,docker,raspberrypi,netlify,postman&perline=6)](https://skillicons.dev)
+
+<!-- ![becom1ng's Stats](https://github-readme-stats.vercel.app/api?username=becom1ng&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becom1ng&hide_progress=true) -->
 
 ## 🌱 Currently Exploring
 
