@@ -28,8 +28,10 @@ I am a junior software developer, driven by a boundless curiosity and a lifelong
 
 ## 📬 Get in Touch
 
-- Connect with me on [Discord](https://discordapp.com/users/85938510829215744)
-- Connect with me on [STL Tech Slack](https://stl-tech.slack.com/team/U061ZNHH0AC)
+- [LinkedIn](https://www.linkedin.com/in/ryan-lavery-336645298/)
+- [Twitter / X](https://twitter.com/ryan42fbd)
+- [Discord](https://discordapp.com/users/85938510829215744)
+- [STL Tech Slack](https://stl-tech.slack.com/team/U061ZNHH0AC)
 
 Thanks for stopping by! Let's connect. 🚀
 
