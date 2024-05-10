@@ -32,6 +32,7 @@ I am a junior software developer, driven by a boundless curiosity and a lifelong
 - [Twitter / X](https://twitter.com/ryan42fbd)
 - [Discord](https://discordapp.com/users/85938510829215744)
 - [STL Tech Slack](https://stl-tech.slack.com/team/U061ZNHH0AC)
+- [Bluesky](https://bsky.app/profile/becoming.bsky.social)
 
 Thanks for stopping by! Let's connect. 🚀
 
