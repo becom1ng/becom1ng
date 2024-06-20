@@ -16,7 +16,7 @@ I am a junior software developer, driven by a boundless curiosity and a lifelong
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Node.js and Express.
+- 🚀 Learning Node.js and Express with plans to move to MongoDB.
 - Delving deeply into JS to broaden my software development foundation.
 - Exploring the newest Angular features for dynamic, performant front-end experiences.
 - Experimenting with dynamic CSS/SCSS designs and UI/UX features to create modern and responsive interfaces.
