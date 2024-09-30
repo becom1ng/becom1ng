@@ -16,9 +16,9 @@ I am a junior software developer, driven by a boundless curiosity and a lifelong
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Node.js, Express, and MongoDB. Building with the MEAN stack.
-- Delving deeply into JS to broaden my software development foundation.
 - Exploring the newest Angular features for dynamic, performant front-end experiences.
+- Delving deeply into JS to broaden my software development foundation.
+- 🚀 Learning Node.js, Express, and MongoDB. Building with the MEAN stack.
 - Experimenting with dynamic CSS/SCSS designs and UI/UX features to create modern and responsive interfaces.
 - Tinkering with [Home Assistant](https://www.home-assistant.io/) and YAML for home automation.
 
