@@ -6,6 +6,7 @@ I am a junior software engineer, driven by a boundless curiosity and a lifelong 
 ## 🚀 About Me
 
 - 🔭 I've been working with computers and technology since I was a child sitting with my father exploring MS DOS 5.0.
+- 👩‍🏫 Building [GuruFyre](https://www.gurufyre.com/), a platform for teachers, mentors, study groups, and students.
 - 🌐 Proud member of the [STL Tech Community](https://stltech.org/).
 
 ## Tech Stack
