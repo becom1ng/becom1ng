@@ -1,6 +1,6 @@
 # Hi, I'm Ryan! 👋
 
-I am a junior software developer, driven by a boundless curiosity and a lifelong love for technology. My journey as a professional has taken me from science, to public service, to software development.
+I am a junior software engineer, driven by a boundless curiosity and a lifelong love for technology. My journey as a professional has taken me from science, to public service, to software engineering.
 
 
 ## 🚀 About Me
