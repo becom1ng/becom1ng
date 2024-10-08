@@ -10,7 +10,7 @@ I am a junior software engineer, driven by a boundless curiosity and a lifelong 
 - 🌐 Proud member of the [STL Tech Community](https://stltech.org/).
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,html,css,sass,js,ts,cs,dotnet,nodejs,express,mongodb,docker,raspberrypi,netlify,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,sass,js,ts,cs,dotnet,nodejs,express,mongodb,firebase,docker,raspberrypi,netlify,postman&perline=6)](https://skillicons.dev)
 
 <!-- ![becom1ng's Stats](https://github-readme-stats.vercel.app/api?username=becom1ng&theme=transparent&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becom1ng&hide_progress=true) -->
